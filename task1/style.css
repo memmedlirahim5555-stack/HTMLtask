@@ -4,6 +4,7 @@
     background-color: antiquewhite;
     position: relative;
     padding-left: 20px;
+    
 }
 .no-btn{
     width: 100px;
@@ -11,7 +12,6 @@
     background-color: orange;
     position: absolute;
     bottom: 10px;
-    left: 50%;;
-    transform: translateX(-50%);
-    
+    border: none;
+    color: white;
 }
